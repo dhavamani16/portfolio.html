@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(123, 92, 97);
+}
+img{
+    border-radius: 60%;
+}
+p{
+    margin-bottom: 20px;
+    padding: 8px;
+}
+body{
+    border: 3px solid white;
+}
